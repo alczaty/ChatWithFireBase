@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233431632571",
+    "firebase_url": "https://chat2-8cc52.firebaseio.com",
+    "project_id": "chat2-8cc52",
+    "storage_bucket": "chat2-8cc52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233431632571:android:cf14d7b55be10b8acc779e",
+        "android_client_info": {
+          "package_name": "com.aty.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233431632571-opa9c9m69i2geatbki29mai7q1g1v1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Qsl-Rcy8scQcB4YlElEKieCJ1rNfhjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233431632571-opa9c9m69i2geatbki29mai7q1g1v1q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
